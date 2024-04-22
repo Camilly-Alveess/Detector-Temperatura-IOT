@@ -5,7 +5,7 @@ Este repositório contém a documentação e o código-fonte para um detector de
 * Placa de Arduino (por exemplo, Arduino Uno)
 * Sensor DHT11
 * Display LED
-* Jumpers (cabos jumper macho-macho, fêmea-fêmea e macho-fêmea)
+* Jumpers (cabos jumper macho-macho e macho-fêmea)
 
 ## Passos para Desenvolvimento
 1. Seleção dos Componentes: Inicialmente, foram selecionados os componentes necessários para o projeto, incluindo uma placa de Arduino Uno, um sensor de temperatura e umidade DHT11, um display led e jumpers para conexão.
